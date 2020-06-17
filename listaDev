@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista de Devedore</title>
+</head>
+<body>
+    <h1>
+        Agiota: Fernandes
+    </h1>
+    <h2>
+        Cidade: Tubarão
+    </h2>
+    <h3>
+        Devedores:
+    </h3>
+    <ul>
+        <li>Fulano de Tal</li>
+        <li>Sicrano</li>
+        <li>Sujeito</li>
+        <li>Alguém</li>
+	    <li>Giunei(Arrail)</li>
+    </ul>
+</body>
+</html>
